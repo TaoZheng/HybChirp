@@ -1,0 +1,2 @@
+HybChirp code  makes references to pathChirp. Exactly, we modify pathChirp code  to addapt to our algorithm. We would like to express our gratitude to the authors of pathChirp.
+If you want to know how to compile and run HybChirp, we strongly suggest you to read README in pathChirp (http://www.spin.rice.edu/Software/pathChirp/index.html#Code) first.
